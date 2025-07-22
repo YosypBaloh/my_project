@@ -1,5 +1,5 @@
 #  Gitprojekt
-##  Project for Git 2
+##  Project for Git 
 
 >Excellent projects always excellent!
 
